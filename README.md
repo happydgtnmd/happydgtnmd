@@ -1,7 +1,7 @@
 <h1 align = "center"> Hi there! 😄 </h1>
 
 <h2 align = "center"> ✨ Tech Stack ✨ </h2>
-  <div align = "center">
+  
   <img src="https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=3776AB"/></a>
 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> 
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/VScode-black?style=flat&logo=VScode&logoColor=007ACC"/></a>
 
   <img src="https://img.shields.io/badge/RStudio-black?style=flat&logo=&logoColor=75AADB"/> </a>
- </div>
+ 
 
 <h2 align = "center"> 📫 Reach me 📫 </h2>
   <div align = "center">
