@@ -7,7 +7,7 @@
 
 
 <p align = "center"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/></a> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=VScode&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white"/></a> </p>
  
 
