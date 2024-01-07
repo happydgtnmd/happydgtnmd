@@ -11,8 +11,9 @@ Here are some ideas to get you started: -->
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
   
-- 📫 How to reach me 
-  <a href="suryunpark23@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<h2 align="center"> 📫 How to reach me </h2>
+  
+<a href="mailto:suryunpark23@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   
 <!-- ✨ Stack ✨ -->
 
